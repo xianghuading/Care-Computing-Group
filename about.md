@@ -7,7 +7,7 @@ title: About Care Computing Group
 	<h1 class="pageTitle">About Care Computing Group</h1>
 	<img src="{{ '/assets/img/logo-no-background.png' | relative_url }}" alt="">
 	<p class="intro">Care Computing Group, led by Xianghua (Sharon) Ding, focuses on understanding and designing interactive and collaborative computing technologies that can empower people and transform care, and in the end enhance health and wellbeing.</p>
-	<p>Care Computing Group, led by Xianghua (Sharon) Ding, focuses on understanding and designing interactive and collaborative computing technologies that can empower people and transform care, and in the end enhance health and wellbeing.</p>
+	
 	<h2>Features</h2>
 	<ul>
 		<li>Built with the <a href="https://github.com/jekyll/jekyll-sass-converter">Jekyll SASS convertor</a> plugin</li>
