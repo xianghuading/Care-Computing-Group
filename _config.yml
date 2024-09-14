@@ -1,7 +1,7 @@
 title: Care Computing Group
 description: Care Computing Group is led by Xianghua (Sharon) Ding at the University of Glasgow.
 
-url: https://long-haul.netlify.app
+url: https://xianghuading.github.io/Care-Computing-Group/
 # Only necessary when hosting your site in a sub-directory. Project sites hosted on GitHub Pages are the common use-case of this variable.
 baseurl: # Ex: /project-page
 paginate_path: "blog/page:num/"
