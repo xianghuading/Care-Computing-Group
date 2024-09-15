@@ -8,15 +8,9 @@ title: About Care Computing Group
 	
 	<h2>Features</h2>
 	<ul>
-		<li>Built with the <a href="https://github.com/jekyll/jekyll-sass-converter">Jekyll SASS convertor</a> plugin</li>
-  		<li>SVG Social Icons from <a href="http://customizr.net/icons/">Customizr</a></li>
-  		<li><a href="http://responsive-nav.com/">Responsive Nav Menu</a></li>
-  		<li><a href="https://github.com/snaptortoise/jekyll-rss-feeds">XML Feed for RSS Readers</a></li>
-  		<li>Contact Form via <a href="http://formspree.io/">Formspree</a></li>
-      <li>5 Post Loop with excerpt on Home Page</li>
-  		<li>Previous / Next Post Navigation</li>
-      <li>Estimated Reading Time for posts</li>
-  		<li><a href="https://github.com/adobe-webplatform/dropcap.js">Drop Cap</a> on posts</li>
-  		<li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li>
+		<li>Weiyun Wang, Xianghua(Sharon) Ding, and Ilyena Hirskyj-Douglas. 2023. Everyday Space as an Interface for Health Data Engagement: Designing Tangible Displays of Stress Data. In Proceedings of the 2023 ACM Designing Interactive Systems Conference (DIS '23). Association for Computing Machinery, New York, NY, USA, 1648–1659. https://doi.org/10.1145/3563657.3596096</li>
+  		<li>Xianghua(Sharon) Ding, Linda Tran, Yanling Liu, Conor O'Neill, and Stephen Lindsay. 2023. Infrastructural Work Behind The Scene: A Study of Formalized Peer-support Practices for Mental Health. In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI '23). Association for Computing Machinery, New York, NY, USA, Article 561, 1–14. https://doi.org/10.1145/3544548.3580657></li>
+  		<li>Jinling Huang, and Xianghua(Sharon) Ding. Self-Management Support (SMS) in Transition: the Case of Osteoporosis Management Support in a Chinese Hospital. Accepted to Comput Supported Coop Work (2024).</li>
+  		
   	</ul>
 </div>
