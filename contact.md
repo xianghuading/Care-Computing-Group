@@ -6,7 +6,7 @@ title: Contact Us
 <div id="contact">
   <h1 class="pageTitle">Contact Me</h1>
   <div class="contactContent">
-    <p> We are looking for people with passion about human-centered design, interactive and collaborative technologies, healthcare, and wellbeing to join our group, either as research assistants trying to get a taste of research or PhD student committed to become an independent researcher.  </p>
+     <p> We are looking for young talents passionate about human-centered design, interactive and collaborative computing, healthcare, and wellbeing to join our group, either as an intern trying to get a taste of research or as a PhD student committed to become an independent researcher.  </p>
 
     <p>If you have questions, feel free to <a href="mailto:sharon.ding@glasgow.ac.uk">email</a>.</p>
   </div>
