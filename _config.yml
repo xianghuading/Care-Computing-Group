@@ -21,10 +21,10 @@ paginate: 3
 navigation:
     - title: Home
       url: /index.html
-    - title: About
-      url: /about
-    - title: Contact
-      url: /contact
+    - title: People
+      url: /people
+    - title: Publications
+      url: /publications
 
 social:
       email: xianghua.ding@glasgow.ac.uk
