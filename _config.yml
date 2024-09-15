@@ -23,6 +23,8 @@ navigation:
       url: /index.html
     - title: Publication
       url: /publication
+    - title: Blog
+      url: /articles
     - title: Join CCG
       url: /contact
 
