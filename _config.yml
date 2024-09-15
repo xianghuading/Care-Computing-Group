@@ -25,6 +25,8 @@ navigation:
       url: /people
     - title: Publications
       url: /publications
+    - title: Join CCG
+      url: /publications
 
 social:
       email: xianghua.ding@glasgow.ac.uk
