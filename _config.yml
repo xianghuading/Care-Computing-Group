@@ -21,8 +21,6 @@ paginate: 3
 navigation:
     - title: Home
       url: /index.html
-    - title: People
-      url: /people
     - title: Publications
       url: /publications
     - title: Join CCG
