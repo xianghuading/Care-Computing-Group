@@ -21,10 +21,10 @@ paginate: 3
 navigation:
     - title: Home
       url: /index.html
-    - title: Publications
-      url: /publications
+    - title: Publication
+      url: /publication
     - title: Join CCG
-      url: /publications
+      url: /contact
 
 social:
       email: xianghua.ding@glasgow.ac.uk
