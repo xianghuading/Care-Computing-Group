@@ -4,12 +4,21 @@ layout: default
 ---
 
 <div class="home" id="home">
-	<p>
+<p>
 Care Computing Group (CCG) is a research group led by <a href="https://xianghuading.github.io/">Dr. Xianghua (Sharon) Ding</a>  within  <a href="https://www.gla.ac.uk/schools/computing/">the School of Computing Science </a> at the University of Glagow. We explore interactive and collaborative computing that can empower people, transform care, and enhance wellbeing. Such research is necessarily interdisciplinary, and our members are from diverse backgrounds, including computing science and engineering but also design, healthcare, psychology, automation, and more. We generally work in the areas of Human-Computer Interactions (HCI), Computer-Supported Cooperative Work (CSCW) and Ubiquitous Computing (Ubicomp), and often integrate ethnographic field work, and iterative co-design and co-development as part of our research of care computing.  
-		</p>
+	</p>
+	<div class="members">
+		
+			<h3>
+				Weiyun Wang
+			</h3>
+			<p>
+			Weiyun is a 3rd year Ph.D. student focusing on tangible interactions for better experiences with health data and with media contents for everyday healty living.
+			</p>
+	</div>
 
-		{%- for post in paginator.posts -%}
-		<article>
+	{%- for post in paginator.posts -%}
+	<article>
 	<div class="posts noList">
 		
 			<span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
@@ -20,7 +29,7 @@ Care Computing Group (CCG) is a research group led by <a href="https://xianghuad
 				{%- if post.description -%}{{ post.description }}{%- else -%}{{
 				post.excerpt | strip_html }}{%- endif -%}
 			</p>
-		</article>
+	</article>
 		{%- endfor -%}
 	</div>
 	<!-- Pagination links -->
