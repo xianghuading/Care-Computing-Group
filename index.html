@@ -5,7 +5,10 @@ layout: default
 
 <div class="home" id="home">
 	<div class="posts noList">
-		<img src="assets/img/logo-no-background.png" alt="Care Computing Group Logo">
+		<p>
+		Care Computing Group, led by Xianghua (Sharon) Ding, focuses on understanding and designing interactive and collaborative computing technologies that can empower people and transform care, and in the end enhance health and wellbeing.
+		</p>
+
 		{%- for post in paginator.posts -%}
 		<article>
 			<span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
