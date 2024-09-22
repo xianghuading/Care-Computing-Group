@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Reading "Being Mortal: Medicine and What Matters in the End""
+title:  "Reading `Being Mortal: Medicine and What Matters in the End'"
 date:   2024-09-21
 author: Xianghua (Sharon) Ding
 ---
