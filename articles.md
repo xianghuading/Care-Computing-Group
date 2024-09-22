@@ -4,7 +4,6 @@ title: CCG Blog
 ---
 
 <div id="articles">
-  <h1>Under construction</h1>
   <ul class="posts noList">
     {%- for post in site.posts -%}
       <li>
