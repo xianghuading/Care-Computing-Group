@@ -3,7 +3,6 @@ layout: post
 title:  "Reading ‘Being Mortal: Medicine and What Matters in the End’"
 date:   2024-09-21
 author: Xianghua (Sharon) Ding
-image: bing_mortal.jpg
 ---
 
 <p class="intro"><span class="dropcap">M</span>y interest in chronic condition care, including cancer care, leads me into the topics of aging, dying, dealth, and spiritual aspects of care, as well as the book “Being Mortal: Medicine and What Matters in the End” by Atul Gawande. The book is an easy read, full of personal stories, and revealing with the stories told. It helped answer a few of questions in my mind, and tt had been hard for me to put it down since I picked it up until I finished it.  </p>
