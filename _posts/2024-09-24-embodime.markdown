@@ -5,9 +5,9 @@ author: Aleksandra Wruk
 date:   2024-09-24
 ---
 
-<p class="intro"><span class="dropcap">L</span>orem ipsum thor smash liege-bastogne-liege landbouwkrediet ombregt krabbe, rouleur derby is for lovers bonk giro gilbert bidon. Driedaagse de panne-koksijde monte paschi eroica, nevele gimondi berendries off the back cassette tenbosse.</p>
+<p class="intro"><span class="dropcap">I</span>n his book, ”Where the Action Is: The Foundations of Embodied Interaction” Paul Dourish explores how the practical experience of interaction with technology is grounded in embodiment. He presents the reader with the idea that our understanding of the world is situated in our physical and social presence.
+.</p>
 
-In his book, ”Where the Action Is: The Foundations of Embodied Interaction” Paul Dourish explores how the practical experience of interaction with technology is grounded in embodiment. He presents the reader with the idea that our understanding of the world is situated in our physical and social presence.
 
 So what is Embodiment?
 
