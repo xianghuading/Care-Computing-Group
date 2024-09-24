@@ -1,17 +1,92 @@
 ---
 layout: post
-title:  "Test Post"
-date:   2014-12-10
+title:  "The embodied experience:reading ”Where the Action Is” by Paul Dourish"
+author: Aleksandra Wruk
+date:   2024-09-24
 ---
 
 <p class="intro"><span class="dropcap">L</span>orem ipsum thor smash liege-bastogne-liege landbouwkrediet ombregt krabbe, rouleur derby is for lovers bonk giro gilbert bidon. Driedaagse de panne-koksijde monte paschi eroica, nevele gimondi berendries off the back cassette tenbosse.</p>
 
-Bahamontes lanterne rouge normandie belgium. Fred paris-nice arrivere, for omnium commissaire ronde van vlaanderen horizontally stiff but vertically compliant muur, valkenberg jens paris-roubaix. Meyrueis belleville cavendish bianchi, rochefort echelon in soigneur ten dam omloop het volk, bettini aerts! Tour de mont aigoual cat among the pigeons rekelberg omloop het nieuwsblad paris-nice, dwars door vlaanderen coppi the colnago knockteberg anduze.
+In his book, ”Where the Action Is: The Foundations of Embodied Inter-
+action” Paul Dourish explores how the practical experience of interaction with
+technology is grounded in embodiment. He presents the reader with the idea
+that our understanding of the world is situated in our physical and social pres-
+ence.
 
-Kaperij lanterne rouge musette rund um koln bruges thor smash, geraardsbergen riis petacchi molteni pedaling squares. Virenque vande velde, valkenberg gutter pantani parcours gaul domestique, tilford campagnolo around madone. Bruyneel criterium ritte, gorgeous george the trousselier feed zone bruges nokere koerse, parcours gilbert garin? Anquetil valkenberg bettini cat among the pigeons.
+So what is Embodiment?
 
-Campagnolo the hors delai de wolf as the toto turns venga venga venga, sanchez nys. Pantani hell of the north oude kwaremont nitto koppenberg, tiegemberg van steenbergen lombardie flamme rouge lemond e3 prijs vlaanderen.
+In most simple terms, embodiment means having a physical presence - the
+body, and and interacting through that physical presence with the world. But
+Dourish extends the embodiment beyond just the physical aspect of the body
+and includes all phenomena which by their nature occur in real time and real
+space. As embodied being our interactions with the digital technology can be
+shaped and enhanced by our familiarity with the physical world, for example
+through representations of file folders or a trash can on a computer to help user
+understand the interactions. Similarly virtual or conversational agents might
+benefit from the application of human conversational styles, that for example
+include back-and-forth or provide sens of empathy and validation. Tangible and
+social computing both reflect this approach, making technology relevant to the
+physical and social realities users inhabit.
 
-Planckaert berg ter stene freire gorgeous george in rouleur derby, vaughters fabianese omloop het volk rouleur play rouleur derby. Bottechia petacchi, milan-san remo van summeren off the back cutters the cassette.
+Dourish also explores the historical perspective on embodiment and grounds
+it in phenomenology - the branch of philosophy that explores the elements of hu-
+man experience. Unlike other philosophical or scientific perspectives which aim
+to establish the objective truth independent of human perception, phenomenol-
+ogy capitalise on the subjective experience of being a human. Phenomenology
+was established by a mathematician Edmund Husserl as a method for explor-
+ing the nature of human experience and perception. Husserl realised that the
+sciences increasingly dealt with idealized version of the world and were discon-
+nected from human experience. Instead of trying to explain the world through
+theories or abstract ideas, phenomenology looks closely at our everyday experi-
+ences of how we see, feel, and interact with things directly.
 
-Nyvelocity pyrenees vande velde merckx. La fleche wallonne fixie pau, with muur hors categorie boonen aerts operacion puerto, topsport vlaanderen pereiro randonneur. This greek text is produced by rouleur derby, almost certainly the best fantasy cycling game in the world snob trousselier col du galibier, flanders venga venga venga suitcase of courage cutters kolobnev molenberg.
+It was Heidegger, a student of Husserl who brought embodiment in to phe-
+nomenology. Unlike Husserl who was mainly focused on mental phenomena and
+their relation to the ”outside” physical world, Heidegger proposed that mind
+and body were in fact one. He flipped the previous idea of Cartesian dualism
+- ”I think therefore I am” and instead proposed ”I am and therefore I think”.
+This revolutionary idea implied that that we can only think because we exist as
+physical beings. Merleau-Ponty took this ideas further and describes:
+”The body can no longer be regarded as an entity to be examined
+in its own right but has to be placed in the context of a world.
+Moreover, being-in-the-world cannot itself be understood as a cer-
+tain relation that obtains between a central body and a surrounding
+world, but has to be understood in terms of tasks, action to be ac-
+complished, a free space which outlines in advance the possibilities
+available to the body at any time.”
+
+Dourish describes how such view of embodiment also helps us to answer the
+problem of intersubjectivity - if our experiences of the world are fundamentally
+subjective, how can we as humanity achieve a common experience of the world
+and a shared framework for meaning? Because if our experience arise as an
+outcome of us being grounded in shared physical reality, therefore we can assume
+the experiences of others are similar to our own. In that sense, embodiment
+implies not only that we are grounded in physical and social reality, but in fact
+that our meanings and actions arise as a result of existing in this reality. This
+perspective is crucial in Gibson’s idea of affordances. An affordance is a property
+of the environment that affords action for the embodied being. For example, the
+flat nature of a road affords me being able to walk on it, while water affords me
+to swim. Donald Norman, best known for his book ”The Design of Everyday
+Things” used the concept of affordances to explore the relationship between
+form and function in design.
+
+Dourish’s exploration of embodiment and phenomenological perspective offer
+a numerous implications for the design of Human Computer Interactions. Firstly
+it allows us to design experiences that are understandable and usable. Rather
+than presenting the user with lines of code that require specialist knowledge, we
+can tap in to our familiarity with the physical world to provide metaphorical
+representations that are intuitive and effortless. We can also understand that
+how we design the interactions will shape the actual use. We can see an example
+of this in the design of social media applications, which afford infinite content
+scrolling, thus allowing high rates of engagement, to the point of creating ad-
+dictive behaviours. Designers go to great lengths to guide users through specific
+experiences, such as a shopping funnels.
+
+Perhaps what is missing from Dourish’s exploration is an account of how
+our personal history affects our interactions with the world. According to The
+Theory of Grounded Cognition (REF BARSALOU) our actions in the world
+are not only the results of our physical and social environment but are largely
+constructed from our previous experiences of those environments. For example,
+we might start to salivate at the mere sound of clattering plates. While the
+embodiment helps to unify our subjective experiences as grounded in the world
+around us, our histories create diversity.
