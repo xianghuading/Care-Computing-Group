@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Anne Brewster: 'The Healing Power of Story Telling'"
+title:  "Anne Brewster: The Healing Power of Story Telling"
 author: Xianghua (Sharon) Ding
 date:   2024-10-13
 ---
