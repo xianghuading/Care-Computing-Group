@@ -2,7 +2,7 @@
 layout: post
 title:  "Anne Brewster: "The Healing Power of Story Telling""
 date:   2024-10-13
-author: Xianghua (Sharon)Ding
+author: Xianghua (Sharon) Ding
 ---
 
 <p class="intro"><span class="dropcap">This</span> book is about how stories can transform healthcare. Anne Brewster is both a doctor and a patient with multiple sclerosis. Drawing on her personal experiences as well as research from science, the book illustrates the transforming power of storytelling in healing, and provides instructions on how to write and share stories most strongly associated with the improvement of physical and mental health.</p>
