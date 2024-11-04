@@ -1,7 +1,7 @@
 
 ---
 layout: post
-title:  Summary and reflection on "Technology as an Occasion for Structuring: Evidence from Observations of CT Scanners and the Social Order of Radiology Departments"
+title:  "Summary and reflection on 'Technology as an Occasion for Structuring: Evidence from Observations of CT Scanners and the Social Order of Radiology Departments'"
 author: Jinling Huang
 date:   2024-11-04
 ---
