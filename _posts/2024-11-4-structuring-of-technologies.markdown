@@ -1,19 +1,12 @@
-
 ---
 layout: post
 title:  "Summary and reflection on 'Technology as an Occasion for Structuring: Evidence from Observations of CT Scanners and the Social Order of Radiology Departments'"
 author: Jinling Huang
 date:   2024-11-04
 ---
+<p class="intro"><span class="dropcap">Past</span> research has explored the relationship between technology and structure, proposing two main conceptualizations of structure. Some scholars argue that technology is typically viewed as a material cause, with a fixed relationship between technology and structure that is unaffected by the environment. This perspective leads researchers to analyze the impact of technology on structure at the organizational level, commonly reflected in the concept of "technological determinism." On the other hand, some scholars contend that structure is a pattern of action, interaction, and cognition, emphasizing that structure is the result of human activity rather than an entity independent of these activities. Finally, a portion of scholars attempt to integrate these two perspectives, suggesting that structure is a dual concept of both process and form. This means that structure both reflects and constrains action, while simultaneously being continuously reshaped by that action, thereby revealing the dynamic relationship between institutions and actions.</p>
 
-TECHNOLOGY AND THE STRUCTURING OF STRUCTURE
-
-Past research has explored the relationship between technology and structure, proposing two main conceptualizations of structure. Some scholars argue that technology is typically viewed as a material cause, with a fixed relationship between technology and structure that is unaffected by the environment. This perspective leads researchers to analyze the impact of technology on structure at the organizational level, commonly reflected in the concept of "technological determinism." On the other hand, some scholars contend that structure is a pattern of action, interaction, and cognition, emphasizing that structure is the result of human activity rather than an entity independent of these activities. Finally, a portion of scholars attempt to integrate these two perspectives, suggesting that structure is a dual concept of both process and form. This means that structure both reflects and constrains action, while simultaneously being continuously reshaped by that action, thereby revealing the dynamic relationship between institutions and actions.
-
-
-MOTIVATION
-
-Due to the multiple perspectives on the relationship between technology and structure, as well as the existing evidence being somewhat chaotic, this study aims to explore the relationship between technology and structuring by introducing the CT scanner as a new technology into the radiology departments of two different hospitals.
+Due to the multiple perspectives on the relationship between technology and structure, as well as the existing evidence being somewhat chaotic, this study aims to explore the relationship between technology and structuring by focusing on the introduction of CT scanners as a new technology into the radiology departments of two different hospitals.
 
 
 METHODOLOGY
