@@ -19,7 +19,7 @@ title: About Care Computing Group
 <li>Ding, X. (S.) , Tran, L., Liu, Y., O’Neill, C. and Lindsay, S.  (2023) <a href="https://eprints.gla.ac.uk/291875/"> Infrastructural Work Behind The Scene: A Study of Formalized Peer-support Practices for Mental Health  </a>. In: 2023 CHI Conference on Human Factors in Computing Systems (CHI '23), Hamburg, Germany, 23-28 Apr 2023, p. 561. ISBN 9781450394215 (doi: 10.1145/3544548.3580657)</li>
 <p></p>
 
- <li>Jiang, Y., Ding, X. , Ma, X., Sun, Z. and Gu, N. (2023) <a href=“https://eprints.gla.ac.uk/291878/”> IntimaSea: Exploring Shared Stress Display in Close Relationships  </a>. In: 2023 CHI Conference on Human Factors in Computing Systems (CHI '23), Hamburg, Germany, 23-28 Apr 2023, p. 428. ISBN 9781450394215 (doi: 10.1145/3544548.3581000)</li>
+ <li>Jiang, Y., Ding, X. , Ma, X., Sun, Z. and Gu, N. (2023) <a href="https://eprints.gla.ac.uk/291878/"> IntimaSea: Exploring Shared Stress Display in Close Relationships  </a>. In: 2023 CHI Conference on Human Factors in Computing Systems (CHI '23), Hamburg, Germany, 23-28 Apr 2023, p. 428. ISBN 9781450394215 (doi: 10.1145/3544548.3581000)</li>
 <p></p>
 
  <li>Tang, X., Ding, X. (S.)  and Zhou, Z. (2023) <a href=“https://eprints.gla.ac.uk/304191/”>Towards Equitable Online Participation: A Case of Older Adult Content Creators’ Role Transition on Short-form Video Sharing Platforms </a>. In: 26th ACM Conference On Computer-Supported Cooperative Work And Social Computing (CSCW2023), Minneapolis, MN, USA, 13-18 October 2023, pp. 1-22. (doi: 10.1145/3610216)
