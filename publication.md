@@ -16,7 +16,7 @@ title: About Care Computing Group
 <p></p>
   
   
-<li>Ding, X. (S.) , Tran, L., Liu, Y., O’Neill, C. and Lindsay, S.  (2023) <a href=“https://eprints.gla.ac.uk/291875/”> Infrastructural Work Behind The Scene: A Study of Formalized Peer-support Practices for Mental Health  </a>. In: 2023 CHI Conference on Human Factors in Computing Systems (CHI '23), Hamburg, Germany, 23-28 Apr 2023, p. 561. ISBN 9781450394215 (doi: 10.1145/3544548.3580657)</li>
+<li>Ding, X. (S.) , Tran, L., Liu, Y., O’Neill, C. and Lindsay, S.  (2023) <a href="https://eprints.gla.ac.uk/291875/"> Infrastructural Work Behind The Scene: A Study of Formalized Peer-support Practices for Mental Health  </a>. In: 2023 CHI Conference on Human Factors in Computing Systems (CHI '23), Hamburg, Germany, 23-28 Apr 2023, p. 561. ISBN 9781450394215 (doi: 10.1145/3544548.3580657)</li>
 <p></p>
 
  <li>Jiang, Y., Ding, X. , Ma, X., Sun, Z. and Gu, N. (2023) <a href=“https://eprints.gla.ac.uk/291878/”> IntimaSea: Exploring Shared Stress Display in Close Relationships  </a>. In: 2023 CHI Conference on Human Factors in Computing Systems (CHI '23), Hamburg, Germany, 23-28 Apr 2023, p. 428. ISBN 9781450394215 (doi: 10.1145/3544548.3581000)</li>
