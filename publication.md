@@ -12,7 +12,7 @@ title: About Care Computing Group
 
 
 <p></p>
-  <li>Wang, W., Ding, X. (S.)  and Hirskyj-Douglas, I.  (2023) <a href=“https://eprints.gla.ac.uk/303317/”> Everyday Space as an Interface for Health Data Engagement: Designing Tangible Displays of Stress Data </a>. In: DIS '23: Designing Interactive Systems Conference, Pittsburgh, PA, USA, 10-14 July 2023, pp. 1648-1659. ISBN 9781450398930 (doi: 10.1145/3563657.3596096)</li>
+  <li>Wang, W., Ding, X. (S.)  and Hirskyj-Douglas, I.  (2023) <a href="https://eprints.gla.ac.uk/303317/">Everyday Space as an Interface for Health Data Engagement: Designing Tangible Displays of Stress Data </a>. In: DIS '23: Designing Interactive Systems Conference, Pittsburgh, PA, USA, 10-14 July 2023, pp. 1648-1659. ISBN 9781450398930 (doi: 10.1145/3563657.3596096)</li> 
 <p></p>
   
   
