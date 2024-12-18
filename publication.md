@@ -26,7 +26,7 @@ title: About Care Computing Group
  </li>
 <p></p>
 
-  	 <li>Jiang, Y., Ding, X., Liu, D., Gui, X., Zhang, W. and Zhang, W. (2022)  <a href="https://eprints.gla.ac.uk/271770/"> Designing intelligent self-checkup based technologies for everyday healthy living</a>. International Journal of Human-Computer Studies, 166, 102866. (doi: 10.1016/j.ijhcs.2022.102866)</li>
+<li>Jiang, Y., Ding, X., Liu, D., Gui, X., Zhang, W. and Zhang, W. (2022)  <a href="https://eprints.gla.ac.uk/271770/"> Designing intelligent self-checkup based technologies for everyday healthy living</a>. International Journal of Human-Computer Studies, 166, 102866. (doi: 10.1016/j.ijhcs.2022.102866)</li>
 <p></p>	
 
 <li>Ding, X. , Wei, S., Gui, X., Gu, N. and Zhang, P. (2021) <a href="https://eprints.gla.ac.uk/264302/">Data Engagement Reconsidered: a Study of Automatic Stress Tracking Technology in Use </a>. In: 2021 CHI Conference on Human Factors in Computing Systems (CHI '21), 08-13 May 2021, p. 535. ISBN 9781450380966 (doi: 10.1145/3411764.3445763)</li>
