@@ -5,7 +5,7 @@ author: Sharon Ding
 date:   2026-05-24
 ---
 
-<p class="intro"><span class="dropcap">L</span>Care Computing Group fun in the Lake District!</p>
+<p class="intro"><span class="dropcap">C</span>are Computing Group fun in the Lake District!</p>
 
 The Care Computing Group enjoyed a fantastic day out in the Lake District, taking a break from research to explore stunning landscapes, and spend time together outside the office. From scenic walks and lakeside views to plenty of laughter along the way, it was a wonderful opportunity to create lasting memories.
 <img src="/assets/img/IMG_5074.JPG" alt=""> 
